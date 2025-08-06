@@ -7,7 +7,7 @@
 **Master the art and science of evaluating AI systems in production**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-evals-tutorial.svg)](https://github.com/yourusername/ai-evals-tutorial/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/stretchcloud/ai-evals-tutorial.svg)](https://github.com/stretchcloud/ai-evals-tutorial/stargazers)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
