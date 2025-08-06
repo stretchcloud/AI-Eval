@@ -60,18 +60,11 @@ By completing this tutorial, you will be able to:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-evals-tutorial.git
-cd ai-evals-tutorial
+git clone https://github.com/stretchcloud/ai-eval.git
+cd ai-eval
 ```
 
-### 2. Set Up Your Environment
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-### 3. Start with Module 1
+### 2. Start with Module 1
 ```bash
 cd modules/01-fundamentals
 # Follow the README.md in each module
@@ -133,32 +126,13 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📖 Additional Resources
 
-### Recommended Reading
-- [AI Evals For Engineers & PMs Course](https://maven.com/course/ai-evals)
-- [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/)
-- [Creating a LLM-as-a-Judge](https://hamel.dev/blog/posts/llm-judge/)
-
-### Community
-- [Discord Community](https://discord.gg/ai-evals) (Coming Soon)
-- [Weekly Office Hours](https://calendar.link) (Coming Soon)
-- [Newsletter](https://newsletter.link) (Coming Soon)
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-This tutorial is based on insights from:
-- Teaching 700+ engineers and PMs about AI evaluation
-- Real-world experience from teams shipping AI to millions of users
-- Contributions from the broader AI evaluation community
-
-Special thanks to Hamel Husain and Shreya Shankar for their pioneering work in AI evaluation education.
-
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ai-evals-tutorial&type=Date)](https://star-history.com/#yourusername/ai-evals-tutorial&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=stretchcloud/ai-eval&type=Date)](https://star-history.com/#stretchcloud/ai-eval&Date)
 
 ---
 
