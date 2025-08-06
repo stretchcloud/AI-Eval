@@ -90,11 +90,7 @@ ai-evals-tutorial/
 │   └── 09-advanced-topics/     # Module 9: Advanced Topics
 ├── assets/                      # Images, diagrams, and media
 │   ├── diagrams/               # Technical diagrams and flowcharts
-│   ├── images/                 # Screenshots and illustrations
-│   └── pdfs/                   # Reference documents
 ├── resources/                   # Additional learning materials
-├── marketing-materials/         # Campaign and outreach content
-├── requirements.txt            # Python dependencies
 ├── LICENSE                     # MIT License
 └── README.md                   # This file
 ```
